@@ -11,6 +11,8 @@
 * Xiaoqian Jia, [xiaoqianjia](https://github.com/xiaoqianjia)
 * Jianfeng Song, [Jianfengusa](https://github.com/Jianfengusa)
 * Ruiwan Xu, [ruiwan1996](https://github.com/ruiwan1996)
+* Anrui Liang, [liang199541](https://github.com/liang199541)
+
 ## Teaching Team
 
 * Jean-Francois Chamberland, [chmbrlnd](https://github.com/chmbrlnd)
